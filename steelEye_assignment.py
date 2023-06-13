@@ -172,18 +172,3 @@ def fetch_trades_with_pagination(search: Optional[str] = None,
         ]
 
     return filtered_trades
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
